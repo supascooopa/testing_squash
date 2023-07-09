@@ -1,4 +1,6 @@
-def yelling_greetings():
-    x = "hello"
-    y = "!"
-    print(x + " " + y)
+# amend these 🖕🖕
+x = "hello"
+y = "!"
+print(x + " " + y)
+
+# this is before the revert
