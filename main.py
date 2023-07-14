@@ -4,7 +4,7 @@ def yelling_greetings():
     y = "!"
     print(x + " " + y)
 
-# amend these 🖕🖕
+# amend these 🙊🙉🙈
 x = "hello"
 y = "!"
 print(x + " " + y)
