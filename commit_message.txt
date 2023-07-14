@@ -1,0 +1,4 @@
+This commit aims to improve the current UI. This is achieved by adding
+prefix stream markers to message headers in messages view, therefore
+giving the users an easier time to figure out what type of stream the
+message belongs to.
