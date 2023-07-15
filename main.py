@@ -8,9 +8,11 @@ def yelling_greetings():
 # Thanks! 😘
 
 # amend these 🙊🙉🙈
+
 x = "hello"
 y = "!"
 print(x + " " + y)
 
 def something_something():
     print("something")
+
