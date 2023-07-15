@@ -1,14 +1,18 @@
-# amend these blah blah blah
+
+def yelling_greetings():
+    x = "hello"
+    y = "!"
+    print(x + " " + y)
+
+# Also could you please add a new function below vvv
+# Thanks! 😘
+
+# amend these 🙊🙉🙈
+
 x = "hello"
 y = "!"
 print(x + " " + y)
 
-# this is before the revert
-"""
-blah blah blah
-blah blah blah
-blah blah blah
-blah blah blah
-blah blah blah
+def something_something():
+    print("something")
 
-"""
